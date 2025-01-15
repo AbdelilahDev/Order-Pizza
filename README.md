@@ -1,1 +1,1 @@
-# Order-Pizza
+# This is Simple Pizza project
