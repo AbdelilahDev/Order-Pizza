@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E08C94F4-3309-4174-A921-96B94C467469}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PizzaOrders</RootNamespace>
+    <AssemblyName>PizzaOrders</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="custmers\FormLoginCustmer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="custmers\FormLoginCustmer.Designer.cs">
+      <DependentUpon>FormLoginCustmer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="globalclasses\clsCurrentCustmer.cs" />
+    <Compile Include="globalclasses\clsValidation.cs" />
+    <Compile Include="orders\ActiveOrderForCustmer\frmActiveOrderForACustmer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="orders\ActiveOrderForCustmer\frmActiveOrderForACustmer.Designer.cs">
+      <DependentUpon>frmActiveOrderForACustmer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pizza\CtrFindPizza.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pizza\CtrFindPizza.Designer.cs">
+      <DependentUpon>CtrFindPizza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pizza\CtrPizzaInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pizza\CtrPizzaInformation.Designer.cs">
+      <DependentUpon>CtrPizzaInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pizza\FrmSendPizza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pizza\FrmSendPizza.Designer.cs">
+      <DependentUpon>FrmSendPizza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="riviews\CtrCustmerReview.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="riviews\CtrCustmerReview.Designer.cs">
+      <DependentUpon>CtrCustmerReview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="riviews\frmCustmerReviews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="riviews\frmCustmerReviews.Designer.cs">
+      <DependentUpon>frmCustmerReviews.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="custmers\FormLoginCustmer.resx">
+      <DependentUpon>FormLoginCustmer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orders\ActiveOrderForCustmer\frmActiveOrderForACustmer.resx">
+      <DependentUpon>frmActiveOrderForACustmer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pizza\CtrFindPizza.resx">
+      <DependentUpon>CtrFindPizza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pizza\CtrPizzaInformation.resx">
+      <DependentUpon>CtrPizzaInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pizza\FrmSendPizza.resx">
+      <DependentUpon>FrmSendPizza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="riviews\CtrCustmerReview.resx">
+      <DependentUpon>CtrCustmerReview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="riviews\frmCustmerReviews.resx">
+      <DependentUpon>frmCustmerReviews.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="resources\delivery-bike.png" />
+    <Content Include="resources\Find.png" />
+    <Content Include="resources\fruits32.png" />
+    <Content Include="resources\LogoPizza.png" />
+    <Content Include="resources\Meat32.png" />
+    <Content Include="resources\order64.png" />
+    <Content Include="resources\pizza.png" />
+    <Content Include="resources\pizza1.png" />
+    <Content Include="resources\pizza64.png" />
+    <Content Include="resources\PizzaLogaf.jpg" />
+    <Content Include="resources\PizzaVegetable32.png" />
+    <Content Include="resources\rating.png" />
+    <Content Include="resources\Review64.png" />
+    <Content Include="resources\SeaFish32.png" />
+    <Content Include="resources\Vegetable32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\Business_Layer.csproj">
+      <Project>{2f868ef9-7440-4c0e-b16e-ffa387bced18}</Project>
+      <Name>Business_Layer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\Abdel\OneDrive\Desktop\OriginalPizzaOrder\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Abdel\OneDrive\Desktop\OriginalPizzaOrder\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Abdel\OneDrive\Desktop\OriginalPizzaOrder\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Abdel\OneDrive\Desktop\OriginalPizzaOrder\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Abdel\OneDrive\Desktop\OriginalPizzaOrder\BusinessLayer\obj\Debug\Business_Layer.csproj.AssemblyReference.cache
+C:\Users\Abdel\OneDrive\Desktop\OriginalPizzaOrder\BusinessLayer\obj\Debug\Business_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\OneDrive\Desktop\OriginalPizzaOrder\BusinessLayer\obj\Debug\Business.3851A4FC.Up2Date
+C:\Users\Abdel\OneDrive\Desktop\OriginalPizzaOrder\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Abdel\OneDrive\Desktop\OriginalPizzaOrder\BusinessLayer\obj\Debug\BusinessLayer.pdb

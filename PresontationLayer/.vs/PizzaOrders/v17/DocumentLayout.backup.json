@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PresontationLayer.csproj|c:\\users\\abdel\\onedrive\\desktop\\originalpizzaorder\\order-pizza\\presontationlayer\\pizza\\ctrpizzainformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PresontationLayer.csproj|solutionrelative:pizza\\ctrpizzainformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\riviews\\ctrcustmerreview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|solutionrelative:riviews\\ctrcustmerreview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\orders\\activeorderforcustmer\\frmactiveorderforacustmer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|solutionrelative:orders\\activeorderforcustmer\\frmactiveorderforacustmer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\custmers\\formlogincustmer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|solutionrelative:custmers\\formlogincustmer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|solutionrelative:frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08C94F4-3309-4174-A921-96B94C467469}|PizzaOrders.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:06:57.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CtrCustmerReview.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\riviews\\CtrCustmerReview.Designer.cs",
+              "RelativeDocumentMoniker": "riviews\\CtrCustmerReview.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\riviews\\CtrCustmerReview.Designer.cs",
+              "RelativeToolTip": "riviews\\CtrCustmerReview.Designer.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAUwMEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:06:26.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmActiveOrderForACustmer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\orders\\ActiveOrderForCustmer\\frmActiveOrderForACustmer.Designer.cs",
+              "RelativeDocumentMoniker": "orders\\ActiveOrderForCustmer\\frmActiveOrderForACustmer.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\orders\\ActiveOrderForCustmer\\frmActiveOrderForACustmer.Designer.cs",
+              "RelativeToolTip": "orders\\ActiveOrderForCustmer\\frmActiveOrderForACustmer.Designer.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwDQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:06:18.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLoginCustmer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\custmers\\FormLoginCustmer.Designer.cs",
+              "RelativeDocumentMoniker": "custmers\\FormLoginCustmer.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\custmers\\FormLoginCustmer.Designer.cs",
+              "RelativeToolTip": "custmers\\FormLoginCustmer.Designer.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAHAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:05:47.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CtrPizzaInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\pizza\\CtrPizzaInformation.cs",
+              "RelativeDocumentMoniker": "pizza\\CtrPizzaInformation.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\pizza\\CtrPizzaInformation.cs",
+              "RelativeToolTip": "pizza\\CtrPizzaInformation.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAUwFkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:04:28.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "frmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\frmMain.Designer.cs",
+              "RelativeToolTip": "frmMain.Designer.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAArwJEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:55:25.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\PizzaOrders\\frmMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\PizzaOrders\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:55:24.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\OriginalPizzaOrder\\Order-Pizza\\PresontationLayer\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:55:14.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
